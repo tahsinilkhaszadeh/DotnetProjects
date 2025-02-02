@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tahsi\\source\\repos\\cosoria\\ComITVancouverJan20\\projects\\TahsinIZ\\NumberGuessingGame\\NumberGuessingGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C945A2DC-4026-4F7A-B27B-B4FB5F898C28}|NumberGuessingGame.csproj|c:\\users\\tahsi\\source\\repos\\cosoria\\comitvancouverjan20\\projects\\tahsiniz\\numberguessinggame\\numberguessinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C945A2DC-4026-4F7A-B27B-B4FB5F898C28}|NumberGuessingGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tahsi\\source\\repos\\cosoria\\ComITVancouverJan20\\projects\\TahsinIZ\\NumberGuessingGame\\NumberGuessingGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tahsi\\source\\repos\\cosoria\\ComITVancouverJan20\\projects\\TahsinIZ\\NumberGuessingGame\\NumberGuessingGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T04:09:21.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

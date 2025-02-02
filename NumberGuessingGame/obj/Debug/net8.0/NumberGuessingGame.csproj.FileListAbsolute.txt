@@ -1,0 +1,14 @@
+C:\Users\tahsi\source\repos\cosoria\ComITVancouverJan20\projects\TahsinIZ\NumberGuessingGame\NumberGuessingGame\bin\Debug\net8.0\NumberGuessingGame.exe
+C:\Users\tahsi\source\repos\cosoria\ComITVancouverJan20\projects\TahsinIZ\NumberGuessingGame\NumberGuessingGame\bin\Debug\net8.0\NumberGuessingGame.deps.json
+C:\Users\tahsi\source\repos\cosoria\ComITVancouverJan20\projects\TahsinIZ\NumberGuessingGame\NumberGuessingGame\bin\Debug\net8.0\NumberGuessingGame.runtimeconfig.json
+C:\Users\tahsi\source\repos\cosoria\ComITVancouverJan20\projects\TahsinIZ\NumberGuessingGame\NumberGuessingGame\bin\Debug\net8.0\NumberGuessingGame.dll
+C:\Users\tahsi\source\repos\cosoria\ComITVancouverJan20\projects\TahsinIZ\NumberGuessingGame\NumberGuessingGame\bin\Debug\net8.0\NumberGuessingGame.pdb
+C:\Users\tahsi\source\repos\cosoria\ComITVancouverJan20\projects\TahsinIZ\NumberGuessingGame\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahsi\source\repos\cosoria\ComITVancouverJan20\projects\TahsinIZ\NumberGuessingGame\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\tahsi\source\repos\cosoria\ComITVancouverJan20\projects\TahsinIZ\NumberGuessingGame\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.AssemblyInfo.cs
+C:\Users\tahsi\source\repos\cosoria\ComITVancouverJan20\projects\TahsinIZ\NumberGuessingGame\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\tahsi\source\repos\cosoria\ComITVancouverJan20\projects\TahsinIZ\NumberGuessingGame\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.dll
+C:\Users\tahsi\source\repos\cosoria\ComITVancouverJan20\projects\TahsinIZ\NumberGuessingGame\NumberGuessingGame\obj\Debug\net8.0\refint\NumberGuessingGame.dll
+C:\Users\tahsi\source\repos\cosoria\ComITVancouverJan20\projects\TahsinIZ\NumberGuessingGame\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.pdb
+C:\Users\tahsi\source\repos\cosoria\ComITVancouverJan20\projects\TahsinIZ\NumberGuessingGame\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.genruntimeconfig.cache
+C:\Users\tahsi\source\repos\cosoria\ComITVancouverJan20\projects\TahsinIZ\NumberGuessingGame\NumberGuessingGame\obj\Debug\net8.0\ref\NumberGuessingGame.dll
