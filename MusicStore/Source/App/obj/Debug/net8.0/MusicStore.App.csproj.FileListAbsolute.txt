@@ -1,0 +1,11 @@
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\App\bin\Debug\net8.0\MusicStore.App.deps.json
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\App\bin\Debug\net8.0\MusicStore.App.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\App\bin\Debug\net8.0\MusicStore.App.pdb
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\App\obj\Debug\net8.0\MusicStore.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\App\obj\Debug\net8.0\MusicStore.App.AssemblyInfoInputs.cache
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\App\obj\Debug\net8.0\MusicStore.App.AssemblyInfo.cs
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\App\obj\Debug\net8.0\MusicStore.App.csproj.CoreCompileInputs.cache
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\App\obj\Debug\net8.0\MusicStore.App.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\App\obj\Debug\net8.0\refint\MusicStore.App.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\App\obj\Debug\net8.0\MusicStore.App.pdb
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\App\obj\Debug\net8.0\ref\MusicStore.App.dll
