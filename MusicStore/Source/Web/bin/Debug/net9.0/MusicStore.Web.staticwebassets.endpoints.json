@@ -1493,6 +1493,304 @@
       ]
     },
     {
+      "Route": "lib/Lumen/bootstrap.min.css",
+      "AssetFile": "lib/Lumen/bootstrap.min.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000030694619"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32578"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u1M5JKYHqv4YiouiD1JAZyp07r9jVJLwoc+n4MIFETc=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eQXtl1QlkkhXl2hXezguEi/adrKmcbSWmwrlAun5ARU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:29:20 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eQXtl1QlkkhXl2hXezguEi/adrKmcbSWmwrlAun5ARU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Lumen/bootstrap.min.css",
+      "AssetFile": "lib/Lumen/bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "239029"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eQXtl1QlkkhXl2hXezguEi/adrKmcbSWmwrlAun5ARU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:29:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eQXtl1QlkkhXl2hXezguEi/adrKmcbSWmwrlAun5ARU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Lumen/bootstrap.min.css.gz",
+      "AssetFile": "lib/Lumen/bootstrap.min.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32578"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u1M5JKYHqv4YiouiD1JAZyp07r9jVJLwoc+n4MIFETc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:29:20 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u1M5JKYHqv4YiouiD1JAZyp07r9jVJLwoc+n4MIFETc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Lumen/bootstrap.min.p88v6lhq36.css",
+      "AssetFile": "lib/Lumen/bootstrap.min.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000030694619"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32578"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u1M5JKYHqv4YiouiD1JAZyp07r9jVJLwoc+n4MIFETc=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eQXtl1QlkkhXl2hXezguEi/adrKmcbSWmwrlAun5ARU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:29:20 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p88v6lhq36"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eQXtl1QlkkhXl2hXezguEi/adrKmcbSWmwrlAun5ARU="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/Lumen/bootstrap.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "lib/Lumen/bootstrap.min.p88v6lhq36.css",
+      "AssetFile": "lib/Lumen/bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "239029"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eQXtl1QlkkhXl2hXezguEi/adrKmcbSWmwrlAun5ARU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:29:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p88v6lhq36"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eQXtl1QlkkhXl2hXezguEi/adrKmcbSWmwrlAun5ARU="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/Lumen/bootstrap.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "lib/Lumen/bootstrap.min.p88v6lhq36.css.gz",
+      "AssetFile": "lib/Lumen/bootstrap.min.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32578"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u1M5JKYHqv4YiouiD1JAZyp07r9jVJLwoc+n4MIFETc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:29:20 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p88v6lhq36"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u1M5JKYHqv4YiouiD1JAZyp07r9jVJLwoc+n4MIFETc="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/Lumen/bootstrap.min.css.gz"
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/LICENSE",
       "AssetFile": "lib/bootstrap/LICENSE",
       "Selectors": [],

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cTEK4aWkfRtv2/fR0NzviKr1+M0I123+pJBuKxt9nTU=",
+  "Hash": "LmDr6v492/ygOVM1oPUXivq4mct1n5G3eI80GL7P6l4=",
   "Source": "MusicStore.Web",
   "BasePath": "_content/MusicStore.Web",
   "Mode": "Default",
@@ -99,6 +99,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\dotnetprograms\\RealWorldProject\\MusicStore\\Source\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "D:\\dotnetprograms\\RealWorldProject\\MusicStore\\Source\\Web\\obj\\Debug\\net9.0\\compressed\\2r206tsdar-p88v6lhq36.gz",
+      "SourceId": "MusicStore.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dotnetprograms\\RealWorldProject\\MusicStore\\Source\\Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MusicStore.Web",
+      "RelativePath": "lib/Lumen/bootstrap.min#[.{fingerprint=p88v6lhq36}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\dotnetprograms\\RealWorldProject\\MusicStore\\Source\\Web\\wwwroot\\lib\\Lumen\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "f7np2ojtxe",
+      "Integrity": "u1M5JKYHqv4YiouiD1JAZyp07r9jVJLwoc+n4MIFETc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\dotnetprograms\\RealWorldProject\\MusicStore\\Source\\Web\\wwwroot\\lib\\Lumen\\bootstrap.min.css"
     },
     {
       "Identity": "D:\\dotnetprograms\\RealWorldProject\\MusicStore\\Source\\Web\\obj\\Debug\\net9.0\\compressed\\3ku1zyslwa-jd9uben2k1.gz",
@@ -2766,6 +2787,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\Lumen\\bootstrap.css"
+    },
+    {
+      "Identity": "D:\\dotnetprograms\\RealWorldProject\\MusicStore\\Source\\Web\\wwwroot\\lib\\Lumen\\bootstrap.min.css",
+      "SourceId": "MusicStore.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dotnetprograms\\RealWorldProject\\MusicStore\\Source\\Web\\wwwroot\\",
+      "BasePath": "_content/MusicStore.Web",
+      "RelativePath": "lib/Lumen/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p88v6lhq36",
+      "Integrity": "eQXtl1QlkkhXl2hXezguEi/adrKmcbSWmwrlAun5ARU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\Lumen\\bootstrap.min.css"
     }
   ],
   "Endpoints": [
@@ -21622,6 +21664,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-q7zL6EG5rTW+10i8DcVHIhIP7bHCXj4289z4Dd5GM+E="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Lumen/bootstrap.min.css",
+      "AssetFile": "D:\\dotnetprograms\\RealWorldProject\\MusicStore\\Source\\Web\\obj\\Debug\\net9.0\\compressed\\2r206tsdar-p88v6lhq36.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000030694619"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32578"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u1M5JKYHqv4YiouiD1JAZyp07r9jVJLwoc+n4MIFETc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:29:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eQXtl1QlkkhXl2hXezguEi/adrKmcbSWmwrlAun5ARU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eQXtl1QlkkhXl2hXezguEi/adrKmcbSWmwrlAun5ARU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Lumen/bootstrap.min.css",
+      "AssetFile": "D:\\dotnetprograms\\RealWorldProject\\MusicStore\\Source\\Web\\wwwroot\\lib\\Lumen\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "239029"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eQXtl1QlkkhXl2hXezguEi/adrKmcbSWmwrlAun5ARU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:29:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eQXtl1QlkkhXl2hXezguEi/adrKmcbSWmwrlAun5ARU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Lumen/bootstrap.min.css.gz",
+      "AssetFile": "D:\\dotnetprograms\\RealWorldProject\\MusicStore\\Source\\Web\\obj\\Debug\\net9.0\\compressed\\2r206tsdar-p88v6lhq36.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32578"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u1M5JKYHqv4YiouiD1JAZyp07r9jVJLwoc+n4MIFETc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:29:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u1M5JKYHqv4YiouiD1JAZyp07r9jVJLwoc+n4MIFETc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Lumen/bootstrap.min.p88v6lhq36.css",
+      "AssetFile": "D:\\dotnetprograms\\RealWorldProject\\MusicStore\\Source\\Web\\obj\\Debug\\net9.0\\compressed\\2r206tsdar-p88v6lhq36.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000030694619"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32578"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u1M5JKYHqv4YiouiD1JAZyp07r9jVJLwoc+n4MIFETc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:29:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eQXtl1QlkkhXl2hXezguEi/adrKmcbSWmwrlAun5ARU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p88v6lhq36"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/Lumen/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eQXtl1QlkkhXl2hXezguEi/adrKmcbSWmwrlAun5ARU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Lumen/bootstrap.min.p88v6lhq36.css",
+      "AssetFile": "D:\\dotnetprograms\\RealWorldProject\\MusicStore\\Source\\Web\\wwwroot\\lib\\Lumen\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "239029"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eQXtl1QlkkhXl2hXezguEi/adrKmcbSWmwrlAun5ARU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:29:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p88v6lhq36"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/Lumen/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eQXtl1QlkkhXl2hXezguEi/adrKmcbSWmwrlAun5ARU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Lumen/bootstrap.min.p88v6lhq36.css.gz",
+      "AssetFile": "D:\\dotnetprograms\\RealWorldProject\\MusicStore\\Source\\Web\\obj\\Debug\\net9.0\\compressed\\2r206tsdar-p88v6lhq36.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32578"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u1M5JKYHqv4YiouiD1JAZyp07r9jVJLwoc+n4MIFETc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:29:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p88v6lhq36"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/Lumen/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u1M5JKYHqv4YiouiD1JAZyp07r9jVJLwoc+n4MIFETc="
         }
       ]
     },

@@ -768,6 +768,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4ZsgTv4j5EbJ2FZVxKv7y5uAAqUsmQNv4RR0JCySYn8="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"288198"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00224ZsgTv4j5EbJ2FZVxKv7y5uAAqUsmQNv4RR0JCySYn8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 23:15:36 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MusicStore.Web/lib/Lumen/bootstrap.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\Lumen\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eQXtl1QlkkhXl2hXezguEi/adrKmcbSWmwrlAun5ARU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"239029"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022eQXtl1QlkkhXl2hXezguEi/adrKmcbSWmwrlAun5ARU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 23:29:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MusicStore.Web/lib/Lumen/bootstrap.min.p88v6lhq36.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\Lumen\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p88v6lhq36"},{"Name":"integrity","Value":"sha256-eQXtl1QlkkhXl2hXezguEi/adrKmcbSWmwrlAun5ARU="},{"Name":"label","Value":"_content/MusicStore.Web/lib/Lumen/bootstrap.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"239029"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022eQXtl1QlkkhXl2hXezguEi/adrKmcbSWmwrlAun5ARU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 23:29:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MusicStore.Web/MusicStore.Web.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MusicStore.Web.zuo3bkqpu2.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

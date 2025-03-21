@@ -201,3 +201,4 @@ D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\bin\Debug\net9.0\MusicS
 D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.csproj.AssemblyReference.cache
 D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\MusicSto.B35A109E.Up2Date
 D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\xnskgvn93x-7ua1r7w0q9.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\2r206tsdar-p88v6lhq36.gz
