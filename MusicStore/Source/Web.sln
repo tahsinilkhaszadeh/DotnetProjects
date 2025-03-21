@@ -5,9 +5,9 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicStore.Web", "Web\MusicStore.Web.csproj", "{03069234-E5D4-4939-BCDA-7AC7221DEC54}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App", "App", "{F95F473B-E98A-ACD6-1986-755F447BE36F}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicStore.App", "App\MusicStore.App.csproj", "{FABDC932-B56E-4320-A102-255C45D601AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicStore.Data", "Data\MusicStore.Data.csproj", "{30295687-AEEA-41D2-8AB7-9AC908790EF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,11 +43,23 @@ Global
 		{FABDC932-B56E-4320-A102-255C45D601AF}.Release|x64.Build.0 = Release|Any CPU
 		{FABDC932-B56E-4320-A102-255C45D601AF}.Release|x86.ActiveCfg = Release|Any CPU
 		{FABDC932-B56E-4320-A102-255C45D601AF}.Release|x86.Build.0 = Release|Any CPU
+		{30295687-AEEA-41D2-8AB7-9AC908790EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30295687-AEEA-41D2-8AB7-9AC908790EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30295687-AEEA-41D2-8AB7-9AC908790EF5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{30295687-AEEA-41D2-8AB7-9AC908790EF5}.Debug|x64.Build.0 = Debug|Any CPU
+		{30295687-AEEA-41D2-8AB7-9AC908790EF5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{30295687-AEEA-41D2-8AB7-9AC908790EF5}.Debug|x86.Build.0 = Debug|Any CPU
+		{30295687-AEEA-41D2-8AB7-9AC908790EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30295687-AEEA-41D2-8AB7-9AC908790EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30295687-AEEA-41D2-8AB7-9AC908790EF5}.Release|x64.ActiveCfg = Release|Any CPU
+		{30295687-AEEA-41D2-8AB7-9AC908790EF5}.Release|x64.Build.0 = Release|Any CPU
+		{30295687-AEEA-41D2-8AB7-9AC908790EF5}.Release|x86.ActiveCfg = Release|Any CPU
+		{30295687-AEEA-41D2-8AB7-9AC908790EF5}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{FABDC932-B56E-4320-A102-255C45D601AF} = {F95F473B-E98A-ACD6-1986-755F447BE36F}
+		{30295687-AEEA-41D2-8AB7-9AC908790EF5} = {015FE221-96B2-289B-A0E8-6E7354784A75}
 	EndGlobalSection
 EndGlobal
