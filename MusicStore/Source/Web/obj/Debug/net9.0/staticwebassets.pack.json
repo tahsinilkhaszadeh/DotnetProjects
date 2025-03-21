@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+      "Id": "D:\\dotnetprograms\\RealWorldProject\\MusicStore\\Source\\Web\\wwwroot\\lib\\Lumen\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\Lumen\\bootstrap.css"
+    },
+    {
       "Id": "D:\\dotnetprograms\\RealWorldProject\\MusicStore\\Source\\Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },

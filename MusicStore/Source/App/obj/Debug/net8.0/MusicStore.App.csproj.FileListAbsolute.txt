@@ -9,3 +9,9 @@ D:\dotnetprograms\RealWorldProject\MusicStore\Source\App\obj\Debug\net8.0\MusicS
 D:\dotnetprograms\RealWorldProject\MusicStore\Source\App\obj\Debug\net8.0\refint\MusicStore.App.dll
 D:\dotnetprograms\RealWorldProject\MusicStore\Source\App\obj\Debug\net8.0\MusicStore.App.pdb
 D:\dotnetprograms\RealWorldProject\MusicStore\Source\App\obj\Debug\net8.0\ref\MusicStore.App.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\App\bin\Debug\net8.0\MusicStore.Data.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\App\bin\Debug\net8.0\MusicStore.Shared.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\App\bin\Debug\net8.0\MusicStore.Data.pdb
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\App\bin\Debug\net8.0\MusicStore.Shared.pdb
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\App\obj\Debug\net8.0\MusicStore.App.csproj.AssemblyReference.cache
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\App\obj\Debug\net8.0\MusicSto.0E21C438.Up2Date

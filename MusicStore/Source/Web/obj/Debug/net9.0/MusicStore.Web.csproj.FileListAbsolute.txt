@@ -192,3 +192,12 @@ D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\refint
 D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.pdb
 D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.genruntimeconfig.cache
 D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\ref\MusicStore.Web.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.App.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Data.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Shared.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.App.pdb
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Data.pdb
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Shared.pdb
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.csproj.AssemblyReference.cache
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\MusicSto.B35A109E.Up2Date
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\xnskgvn93x-7ua1r7w0q9.gz

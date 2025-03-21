@@ -1,0 +1,15 @@
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Data\bin\Debug\net8.0\MusicStore.Data.deps.json
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Data\bin\Debug\net8.0\MusicStore.Data.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Data\bin\Debug\net8.0\MusicStore.Data.pdb
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Data\obj\Debug\net8.0\MusicStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Data\obj\Debug\net8.0\MusicStore.Data.AssemblyInfoInputs.cache
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Data\obj\Debug\net8.0\MusicStore.Data.AssemblyInfo.cs
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Data\obj\Debug\net8.0\MusicStore.Data.csproj.CoreCompileInputs.cache
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Data\obj\Debug\net8.0\MusicStore.Data.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Data\obj\Debug\net8.0\refint\MusicStore.Data.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Data\obj\Debug\net8.0\MusicStore.Data.pdb
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Data\obj\Debug\net8.0\ref\MusicStore.Data.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Data\bin\Debug\net8.0\MusicStore.Shared.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Data\bin\Debug\net8.0\MusicStore.Shared.pdb
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Data\obj\Debug\net8.0\MusicStore.Data.csproj.AssemblyReference.cache
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Data\obj\Debug\net8.0\MusicSto.FBCDE6B3.Up2Date
