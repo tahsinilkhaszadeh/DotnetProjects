@@ -1,0 +1,313 @@
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\bin\Debug\net9.0\appsettings.Development.json
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\bin\Debug\net9.0\appsettings.json
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\bin\Debug\net9.0\MusicStore.Web.staticwebassets.runtime.json
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\bin\Debug\net9.0\MusicStore.Web.staticwebassets.endpoints.json
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\bin\Debug\net9.0\MusicStore.Web.exe
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\bin\Debug\net9.0\MusicStore.Web.deps.json
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\bin\Debug\net9.0\MusicStore.Web.runtimeconfig.json
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\bin\Debug\net9.0\MusicStore.Web.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\bin\Debug\net9.0\MusicStore.Web.pdb
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\MusicStore.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\MusicStore.Web.AssemblyInfoInputs.cache
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\MusicStore.Web.AssemblyInfo.cs
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\MusicStore.Web.csproj.CoreCompileInputs.cache
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\MusicStore.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\MusicStore.Web.RazorAssemblyInfo.cache
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\MusicStore.Web.RazorAssemblyInfo.cs
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\scopedcss\bundle\MusicStore.Web.styles.css
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\scopedcss\projectbundle\MusicStore.Web.bundle.scp.css
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\aqbtmmvm6b-b9sayid5wm.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\wde2kxjojy-61n19gt1b8.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\cgzdqwtshh-xtxxf3hu2r.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\b0k66wzslj-bqjiyaj88i.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\go16lc1geb-c2jlpeoesf.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\c20iu9icse-erw9l3u2r3.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\t94sv4n5u4-aexeepp0ev.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\4xpgy6cp5z-d7shbmvgxk.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\kcxihyh5i6-ausgxo2sd3.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\i6ev6htyo2-k8d9w2qqmf.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\9bo9upw8y4-cosvhxvwiu.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\hjohrxvtwa-ub07r2b239.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\vxuy6j76k5-fvhpjtyr6v.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\7qf5rhuqcb-b7pk76d08c.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\j8se6h0322-fsbi9cje9m.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\j3ab6ixpj2-rzd6atqjts.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\puzuvheqi6-ee0r1s7dh0.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\dp0k646rw8-dxx9fxp4il.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\3ku1zyslwa-jd9uben2k1.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\beo1uk1ivj-khv3u5hwcm.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\m6rl53ir4v-r4e9w2rdcm.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\ufnbi3tyon-lcd1t2u6c8.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\scdds2mnrh-c2oey78nd0.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\s7z3tvmwh6-tdbxkamptv.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\ce000roxn4-j5mq2jizvt.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\fmo0bmqkpg-06098lyss8.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\013xbvyk1n-nvvlpmu67g.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\npzrkhrbz0-s35ty4nyc5.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\utt0ddl77j-pj5nd1wqec.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\w85pcr432m-46ein0sx1k.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\g6m2ceymbe-v0zj4ognzu.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\0g2kdstzw8-37tfw0ft22.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\1tukmvem5g-hrwsygsryq.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\twxcr0rkiu-pk9g2wxc8p.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\c4u9f9q9q8-ft3s53vfgj.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\isr7qlwdlo-6cfz1n2cew.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\xgby7rbvr3-6pdc2jztkx.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\zupwzhlas2-493y06b0oq.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\ptvzyhwz2j-iovd86k7lj.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\z7ttoln9h8-vr1egmr9el.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\988qro2lj8-kbrnm935zg.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\1nf0luzm61-jj8uyg4cgr.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\qgcfotxx6n-y7v9cxd14o.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\autzpef7cq-notf2xhcfb.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\xa6heg64n2-h1s4sie4z3.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\poqhfa1m0c-63fj8s7r0e.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\43gvvp76h3-0j3bgjxly4.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\fttgyhwvmf-47otxtyo56.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\aipo7heca6-4v8eqarkd7.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\7mtvjc4fw2-356vix0kms.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\7ueiv6jsp7-83jwlth58m.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\z3g9uutvye-mrlpezrjn3.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\vqfjnlun8o-lzl9nlhx6b.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\bjzvktb9e2-ag7o75518u.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\ycwkg7c1g2-x0q3zqp4vz.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\4yhglvzd71-0i3buxo5is.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\ynd7psktrl-o1o13a6vjx.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\k7ov0ztkhl-ttgo8qnofa.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\7k1ibzl31k-2z0ns9nrw6.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\ns8bvk49gr-muycvpuwrr.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\3qgd650u45-87fc7y1x7t.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\84m2q2i1yb-mlv21k5csn.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\b6hczbvqua-zuo3bkqpu2.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\compressed\ge935qvu0m-zuo3bkqpu2.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\staticwebassets.build.json
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\staticwebassets.development.json
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\staticwebassets\msbuild.MusicStore.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\staticwebassets\msbuild.MusicStore.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\staticwebassets\msbuild.build.MusicStore.Web.props
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MusicStore.Web.props
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MusicStore.Web.props
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\staticwebassets.pack.json
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\MusicStore.Web.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\refint\MusicStore.Web.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\MusicStore.Web.pdb
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\MusicStore.Web.genruntimeconfig.cache
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\MusicStore.Web\obj\Debug\net9.0\ref\MusicStore.Web.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\bin\Debug\net9.0\appsettings.Development.json
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\bin\Debug\net9.0\appsettings.json
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Web.staticwebassets.endpoints.json
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Web.staticwebassets.runtime.json
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Web.exe
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Web.deps.json
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Web.runtimeconfig.json
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Web.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Web.pdb
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.AssemblyInfoInputs.cache
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.AssemblyInfo.cs
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.csproj.CoreCompileInputs.cache
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.RazorAssemblyInfo.cache
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.RazorAssemblyInfo.cs
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\scopedcss\bundle\MusicStore.Web.styles.css
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\scopedcss\projectbundle\MusicStore.Web.bundle.scp.css
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\aqbtmmvm6b-b9sayid5wm.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\wde2kxjojy-61n19gt1b8.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\cgzdqwtshh-xtxxf3hu2r.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\b0k66wzslj-bqjiyaj88i.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\go16lc1geb-c2jlpeoesf.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\c20iu9icse-erw9l3u2r3.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\t94sv4n5u4-aexeepp0ev.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\4xpgy6cp5z-d7shbmvgxk.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\kcxihyh5i6-ausgxo2sd3.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\i6ev6htyo2-k8d9w2qqmf.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\9bo9upw8y4-cosvhxvwiu.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\hjohrxvtwa-ub07r2b239.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\vxuy6j76k5-fvhpjtyr6v.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\7qf5rhuqcb-b7pk76d08c.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\j8se6h0322-fsbi9cje9m.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\j3ab6ixpj2-rzd6atqjts.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\puzuvheqi6-ee0r1s7dh0.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\dp0k646rw8-dxx9fxp4il.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\3ku1zyslwa-jd9uben2k1.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\beo1uk1ivj-khv3u5hwcm.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\m6rl53ir4v-r4e9w2rdcm.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\ufnbi3tyon-lcd1t2u6c8.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\scdds2mnrh-c2oey78nd0.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\s7z3tvmwh6-tdbxkamptv.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\ce000roxn4-j5mq2jizvt.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\fmo0bmqkpg-06098lyss8.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\013xbvyk1n-nvvlpmu67g.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\npzrkhrbz0-s35ty4nyc5.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\utt0ddl77j-pj5nd1wqec.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\w85pcr432m-46ein0sx1k.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\g6m2ceymbe-v0zj4ognzu.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\0g2kdstzw8-37tfw0ft22.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\1tukmvem5g-hrwsygsryq.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\twxcr0rkiu-pk9g2wxc8p.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\c4u9f9q9q8-ft3s53vfgj.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\isr7qlwdlo-6cfz1n2cew.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\xgby7rbvr3-6pdc2jztkx.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\zupwzhlas2-493y06b0oq.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\ptvzyhwz2j-iovd86k7lj.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\z7ttoln9h8-vr1egmr9el.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\988qro2lj8-kbrnm935zg.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\1nf0luzm61-jj8uyg4cgr.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\qgcfotxx6n-y7v9cxd14o.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\autzpef7cq-notf2xhcfb.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\xa6heg64n2-h1s4sie4z3.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\poqhfa1m0c-63fj8s7r0e.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\43gvvp76h3-0j3bgjxly4.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\fttgyhwvmf-47otxtyo56.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\aipo7heca6-4v8eqarkd7.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\7mtvjc4fw2-356vix0kms.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\7ueiv6jsp7-83jwlth58m.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\z3g9uutvye-mrlpezrjn3.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\vqfjnlun8o-lzl9nlhx6b.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\bjzvktb9e2-ag7o75518u.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\ycwkg7c1g2-x0q3zqp4vz.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\4yhglvzd71-0i3buxo5is.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\ynd7psktrl-o1o13a6vjx.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\k7ov0ztkhl-ttgo8qnofa.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\7k1ibzl31k-2z0ns9nrw6.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\ns8bvk49gr-muycvpuwrr.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\3qgd650u45-87fc7y1x7t.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\84m2q2i1yb-mlv21k5csn.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\b6hczbvqua-zuo3bkqpu2.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\ge935qvu0m-zuo3bkqpu2.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\staticwebassets.build.json
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\staticwebassets.development.json
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\staticwebassets\msbuild.MusicStore.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\staticwebassets\msbuild.MusicStore.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\staticwebassets\msbuild.build.MusicStore.Web.props
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MusicStore.Web.props
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MusicStore.Web.props
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\staticwebassets.pack.json
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\refint\MusicStore.Web.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.pdb
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.genruntimeconfig.cache
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\ref\MusicStore.Web.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.App.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Data.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Shared.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.App.pdb
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Data.pdb
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Shared.pdb
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.csproj.AssemblyReference.cache
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\MusicSto.B35A109E.Up2Date
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\xnskgvn93x-7ua1r7w0q9.gz
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Web\obj\Debug\net9.0\compressed\2r206tsdar-p88v6lhq36.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\bin\Debug\net9.0\appsettings.Development.json
+D:\dotnetprograms\final project\MusicStore\Source\Web\bin\Debug\net9.0\appsettings.json
+D:\dotnetprograms\final project\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Web.staticwebassets.runtime.json
+D:\dotnetprograms\final project\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Web.staticwebassets.endpoints.json
+D:\dotnetprograms\final project\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Web.exe
+D:\dotnetprograms\final project\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Web.deps.json
+D:\dotnetprograms\final project\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Web.runtimeconfig.json
+D:\dotnetprograms\final project\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Web.dll
+D:\dotnetprograms\final project\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Web.pdb
+D:\dotnetprograms\final project\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.App.dll
+D:\dotnetprograms\final project\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Data.dll
+D:\dotnetprograms\final project\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Shared.dll
+D:\dotnetprograms\final project\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.App.pdb
+D:\dotnetprograms\final project\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Data.pdb
+D:\dotnetprograms\final project\MusicStore\Source\Web\bin\Debug\net9.0\MusicStore.Shared.pdb
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.csproj.AssemblyReference.cache
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.AssemblyInfoInputs.cache
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.AssemblyInfo.cs
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.csproj.CoreCompileInputs.cache
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.RazorAssemblyInfo.cache
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.RazorAssemblyInfo.cs
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\scopedcss\bundle\MusicStore.Web.styles.css
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\scopedcss\projectbundle\MusicStore.Web.bundle.scp.css
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\aqbtmmvm6b-b9sayid5wm.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\wde2kxjojy-61n19gt1b8.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\cgzdqwtshh-xtxxf3hu2r.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\b0k66wzslj-bqjiyaj88i.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\go16lc1geb-c2jlpeoesf.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\c20iu9icse-erw9l3u2r3.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\t94sv4n5u4-aexeepp0ev.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\4xpgy6cp5z-d7shbmvgxk.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\kcxihyh5i6-ausgxo2sd3.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\i6ev6htyo2-k8d9w2qqmf.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\9bo9upw8y4-cosvhxvwiu.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\hjohrxvtwa-ub07r2b239.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\vxuy6j76k5-fvhpjtyr6v.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\7qf5rhuqcb-b7pk76d08c.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\j8se6h0322-fsbi9cje9m.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\j3ab6ixpj2-rzd6atqjts.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\puzuvheqi6-ee0r1s7dh0.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\dp0k646rw8-dxx9fxp4il.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\3ku1zyslwa-jd9uben2k1.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\beo1uk1ivj-khv3u5hwcm.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\m6rl53ir4v-r4e9w2rdcm.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\ufnbi3tyon-lcd1t2u6c8.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\scdds2mnrh-c2oey78nd0.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\s7z3tvmwh6-tdbxkamptv.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\ce000roxn4-j5mq2jizvt.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\fmo0bmqkpg-06098lyss8.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\013xbvyk1n-nvvlpmu67g.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\npzrkhrbz0-s35ty4nyc5.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\utt0ddl77j-pj5nd1wqec.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\w85pcr432m-46ein0sx1k.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\g6m2ceymbe-v0zj4ognzu.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\0g2kdstzw8-37tfw0ft22.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\1tukmvem5g-hrwsygsryq.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\twxcr0rkiu-pk9g2wxc8p.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\c4u9f9q9q8-ft3s53vfgj.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\isr7qlwdlo-6cfz1n2cew.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\xgby7rbvr3-6pdc2jztkx.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\zupwzhlas2-493y06b0oq.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\ptvzyhwz2j-iovd86k7lj.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\z7ttoln9h8-vr1egmr9el.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\988qro2lj8-kbrnm935zg.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\1nf0luzm61-jj8uyg4cgr.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\qgcfotxx6n-y7v9cxd14o.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\autzpef7cq-notf2xhcfb.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\xa6heg64n2-h1s4sie4z3.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\poqhfa1m0c-63fj8s7r0e.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\43gvvp76h3-0j3bgjxly4.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\d14pihxze9-3m0i97hbun.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\uss08e6wu2-kh3qxdrvgl.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\fttgyhwvmf-47otxtyo56.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\aipo7heca6-4v8eqarkd7.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\7mtvjc4fw2-356vix0kms.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\7ueiv6jsp7-83jwlth58m.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\z3g9uutvye-mrlpezrjn3.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\vqfjnlun8o-lzl9nlhx6b.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\bjzvktb9e2-ag7o75518u.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\ycwkg7c1g2-x0q3zqp4vz.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\4yhglvzd71-0i3buxo5is.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\ynd7psktrl-o1o13a6vjx.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\k7ov0ztkhl-ttgo8qnofa.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\7k1ibzl31k-2z0ns9nrw6.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\ns8bvk49gr-muycvpuwrr.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\3qgd650u45-87fc7y1x7t.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\84m2q2i1yb-mlv21k5csn.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\xnskgvn93x-7ua1r7w0q9.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\2r206tsdar-p88v6lhq36.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\b6hczbvqua-zuo3bkqpu2.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\compressed\ge935qvu0m-zuo3bkqpu2.gz
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\staticwebassets.build.json
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\staticwebassets.development.json
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\staticwebassets\msbuild.MusicStore.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\staticwebassets\msbuild.MusicStore.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\staticwebassets\msbuild.build.MusicStore.Web.props
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MusicStore.Web.props
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MusicStore.Web.props
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\staticwebassets.pack.json
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\MusicSto.B35A109E.Up2Date
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.dll
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\refint\MusicStore.Web.dll
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.pdb
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\MusicStore.Web.genruntimeconfig.cache
+D:\dotnetprograms\final project\MusicStore\Source\Web\obj\Debug\net9.0\ref\MusicStore.Web.dll

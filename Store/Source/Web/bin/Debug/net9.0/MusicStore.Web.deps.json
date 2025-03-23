@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MusicStore.Web/1.0.0": {
+        "dependencies": {
+          "MusicStore.App": "1.0.0",
+          "MusicStore.Data": "1.0.0",
+          "MusicStore.Shared": "1.0.0"
+        },
+        "runtime": {
+          "MusicStore.Web.dll": {}
+        }
+      },
+      "MusicStore.App/1.0.0": {
+        "dependencies": {
+          "MusicStore.Data": "1.0.0",
+          "MusicStore.Shared": "1.0.0"
+        },
+        "runtime": {
+          "MusicStore.App.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MusicStore.Data/1.0.0": {
+        "dependencies": {
+          "MusicStore.Shared": "1.0.0"
+        },
+        "runtime": {
+          "MusicStore.Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MusicStore.Shared/1.0.0": {
+        "runtime": {
+          "MusicStore.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MusicStore.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MusicStore.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MusicStore.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MusicStore.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

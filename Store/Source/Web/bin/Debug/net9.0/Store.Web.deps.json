@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Store.Web/1.0.0": {
+        "dependencies": {
+          "Store.App": "1.0.0",
+          "Store.Data": "1.0.0",
+          "Store.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Store.Web.dll": {}
+        }
+      },
+      "Store.App/1.0.0": {
+        "dependencies": {
+          "Store.Data": "1.0.0",
+          "Store.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Store.App.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Store.Data/1.0.0": {
+        "dependencies": {
+          "Store.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Store.Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Store.Shared/1.0.0": {
+        "runtime": {
+          "Store.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Store.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Store.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Store.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Store.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

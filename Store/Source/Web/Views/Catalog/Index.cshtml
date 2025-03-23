@@ -1,0 +1,55 @@
+﻿
+@model List<Store.Data.Entities.Product>
+
+<h1>Product Catalog</h1>
+
+<div class="container">
+    <div class="row no-gutters">
+        @foreach (var product in Model)
+        {
+          <div class="col-md-3">
+              <div class="card border-success mb-3 mr-3 " style="max-width: 20rem;">
+                <div class="card-header"><h4 class="Product Title">@product.Title</h4></div>
+                <div class="card-body">
+                    <img src="@product.ImageUrl" class="img-fluid" alt="@product.Title">
+                    <p class="card-text">@product.Description</p>
+                </div>
+              </div>
+                
+          </div>
+        }
+    </div>
+</div>
+
+<!-- Pagination -->
+<nav aria-label="Page navigation">
+    <ul class="pagination justify-content-center">
+      
+        <li class="page-item @(ViewBag.Page == 1 ? "disabled" : "")">
+                <a class="page-link" href="@Url.Action("Index", new { page = ViewBag.Page - 1 })">«</a>
+        </li>
+        @*<li class="page-item @(ViewBag.Page == 1 ? "disabled" : "")">
+                <a class="page-link" href="@Url.Action("Index", new { page = ViewBag.Page - 1 })">Previous</a>
+          </li>*@
+
+
+        @for (int i = 1; i <= ViewBag.TotalPages; i++)
+        {
+          <li class="page-item @(i == ViewBag.Page ? "active" : "")">
+              <a class="page-link" href="@Url.Action("Index", new { page = i })">@i</a>
+          </li>
+        }
+
+        <li class="page-item @(ViewBag.Page == ViewBag.TotalPages ? "disabled" : "")">
+                <a class="page-link" href="@Url.Action("Index", new { page = ViewBag.Page + 1 })">»</a>
+        </li>
+        @*<li class="page-item @(ViewBag.Page == ViewBag.TotalPages ? "disabled" : "")">
+                <a class="page-link" href="@Url.Action("Index", new { page = ViewBag.Page + 1 })">Next</a>
+         </li> *@
+        
+       
+        
+    </ul>
+</nav>
+
+

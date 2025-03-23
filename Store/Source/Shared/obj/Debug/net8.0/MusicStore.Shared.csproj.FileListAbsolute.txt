@@ -1,0 +1,22 @@
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Shared\bin\Debug\net8.0\MusicStore.Shared.deps.json
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Shared\bin\Debug\net8.0\MusicStore.Shared.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Shared\bin\Debug\net8.0\MusicStore.Shared.pdb
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Shared\obj\Debug\net8.0\MusicStore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Shared\obj\Debug\net8.0\MusicStore.Shared.AssemblyInfoInputs.cache
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Shared\obj\Debug\net8.0\MusicStore.Shared.AssemblyInfo.cs
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Shared\obj\Debug\net8.0\MusicStore.Shared.csproj.CoreCompileInputs.cache
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Shared\obj\Debug\net8.0\MusicStore.Shared.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Shared\obj\Debug\net8.0\refint\MusicStore.Shared.dll
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Shared\obj\Debug\net8.0\MusicStore.Shared.pdb
+D:\dotnetprograms\RealWorldProject\MusicStore\Source\Shared\obj\Debug\net8.0\ref\MusicStore.Shared.dll
+D:\dotnetprograms\final project\MusicStore\Source\Shared\bin\Debug\net8.0\MusicStore.Shared.deps.json
+D:\dotnetprograms\final project\MusicStore\Source\Shared\bin\Debug\net8.0\MusicStore.Shared.dll
+D:\dotnetprograms\final project\MusicStore\Source\Shared\bin\Debug\net8.0\MusicStore.Shared.pdb
+D:\dotnetprograms\final project\MusicStore\Source\Shared\obj\Debug\net8.0\MusicStore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetprograms\final project\MusicStore\Source\Shared\obj\Debug\net8.0\MusicStore.Shared.AssemblyInfoInputs.cache
+D:\dotnetprograms\final project\MusicStore\Source\Shared\obj\Debug\net8.0\MusicStore.Shared.AssemblyInfo.cs
+D:\dotnetprograms\final project\MusicStore\Source\Shared\obj\Debug\net8.0\MusicStore.Shared.csproj.CoreCompileInputs.cache
+D:\dotnetprograms\final project\MusicStore\Source\Shared\obj\Debug\net8.0\MusicStore.Shared.dll
+D:\dotnetprograms\final project\MusicStore\Source\Shared\obj\Debug\net8.0\refint\MusicStore.Shared.dll
+D:\dotnetprograms\final project\MusicStore\Source\Shared\obj\Debug\net8.0\MusicStore.Shared.pdb
+D:\dotnetprograms\final project\MusicStore\Source\Shared\obj\Debug\net8.0\ref\MusicStore.Shared.dll
