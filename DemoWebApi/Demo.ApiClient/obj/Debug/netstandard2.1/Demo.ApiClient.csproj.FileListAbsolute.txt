@@ -1,0 +1,20 @@
+D:\dotnetprograms\DemoWebApi - Copy\Demo.ApiClient\bin\Debug\netstandard2.1\Demo.ApiClient.deps.json
+D:\dotnetprograms\DemoWebApi - Copy\Demo.ApiClient\bin\Debug\netstandard2.1\Demo.ApiClient.dll
+D:\dotnetprograms\DemoWebApi - Copy\Demo.ApiClient\bin\Debug\netstandard2.1\Demo.ApiClient.pdb
+D:\dotnetprograms\DemoWebApi - Copy\Demo.ApiClient\obj\Debug\netstandard2.1\Demo.ApiClient.csproj.AssemblyReference.cache
+D:\dotnetprograms\DemoWebApi - Copy\Demo.ApiClient\obj\Debug\netstandard2.1\Demo.ApiClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetprograms\DemoWebApi - Copy\Demo.ApiClient\obj\Debug\netstandard2.1\Demo.ApiClient.AssemblyInfoInputs.cache
+D:\dotnetprograms\DemoWebApi - Copy\Demo.ApiClient\obj\Debug\netstandard2.1\Demo.ApiClient.AssemblyInfo.cs
+D:\dotnetprograms\DemoWebApi - Copy\Demo.ApiClient\obj\Debug\netstandard2.1\Demo.ApiClient.csproj.CoreCompileInputs.cache
+D:\dotnetprograms\DemoWebApi - Copy\Demo.ApiClient\obj\Debug\netstandard2.1\Demo.ApiClient.dll
+D:\dotnetprograms\DemoWebApi - Copy\Demo.ApiClient\obj\Debug\netstandard2.1\Demo.ApiClient.pdb
+D:\dotnetprograms\DemoWebApi\Demo.ApiClient\bin\Debug\netstandard2.1\Demo.ApiClient.deps.json
+D:\dotnetprograms\DemoWebApi\Demo.ApiClient\bin\Debug\netstandard2.1\Demo.ApiClient.dll
+D:\dotnetprograms\DemoWebApi\Demo.ApiClient\bin\Debug\netstandard2.1\Demo.ApiClient.pdb
+D:\dotnetprograms\DemoWebApi\Demo.ApiClient\obj\Debug\netstandard2.1\Demo.ApiClient.csproj.AssemblyReference.cache
+D:\dotnetprograms\DemoWebApi\Demo.ApiClient\obj\Debug\netstandard2.1\Demo.ApiClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetprograms\DemoWebApi\Demo.ApiClient\obj\Debug\netstandard2.1\Demo.ApiClient.AssemblyInfoInputs.cache
+D:\dotnetprograms\DemoWebApi\Demo.ApiClient\obj\Debug\netstandard2.1\Demo.ApiClient.AssemblyInfo.cs
+D:\dotnetprograms\DemoWebApi\Demo.ApiClient\obj\Debug\netstandard2.1\Demo.ApiClient.csproj.CoreCompileInputs.cache
+D:\dotnetprograms\DemoWebApi\Demo.ApiClient\obj\Debug\netstandard2.1\Demo.ApiClient.dll
+D:\dotnetprograms\DemoWebApi\Demo.ApiClient\obj\Debug\netstandard2.1\Demo.ApiClient.pdb
